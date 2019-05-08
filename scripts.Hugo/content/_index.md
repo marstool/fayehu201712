@@ -6,7 +6,19 @@ weight = 20
 
 
 
-* [   fayehu2017.jjj123.com 广州人在美国 ]({{< relref "2017" >}})
+* [   fayehu2019.jjj123.com 广州人在美国 ]({{< relref "zz2019" >}})
+
+
+* [   fayehu2018.jjj123.com 广州人在美国 ]({{< relref "zz2018" >}})
+
+
+* [   fayehu2017.jjj123.com 广州人在美国 ]({{< relref "zz2017" >}})
+
+
+* [   fayehu2016.jjj123.com 广州人在美国 ]({{< relref "zz2016" >}})
+
+
+* [   fayehu2014.jjj123.com 广州人在美国 ]({{< relref "zz2014" >}})
 
 
 * [ 20171224  现实中的美国究竟是怎么样的？ （三）粤语  ]({{< relref "20171224_ymov9dax_am" >}})
@@ -88,10 +100,4 @@ weight = 20
 
 
 * [ 20171002  为什么美国人说“我的垃圾可能会是你的宝藏! ？（粤语）  ]({{< relref "20171002_zu_ln6dyza" >}})
-
-
-* [   fayehu2016.jjj123.com 广州人在美国 ]({{< relref "2016" >}})
-
-
-* [   fayehu2014.jjj123.com 广州人在美国 ]({{< relref "2014" >}})
 
