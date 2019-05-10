@@ -8,6 +8,6 @@ weight = 20
 
 {{< mymp4 mp4="20171221_gxawr9mjt_y.mp4" >}}
 
-     好人究竟是一个什么定义？ 
      https://www.youtube.com/watch?v=gXAwR9mJT Y 
+     好人究竟是一个什么定义？ 
      谈天说地 之 好人篇 （粤语） 

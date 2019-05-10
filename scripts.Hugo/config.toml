@@ -18,6 +18,8 @@ enableMissingTranslationPlaceholders = false
 [params]
 dynsite00 = "https://www.jjj123.com"
 dynsite01 = "https://fayehu2019.jjj123.com"
+dynsite02 = "https://www.youtube.com/channel/UCheuDxi3s2WAefGCbLHwqAw"
+dynsite03 = "https://fayehu.jjj123.com"
 editURL = ""
 showVisitedLinks = true # default is false
 ## themeStyle = "flex" # "original" or "flex" # default "flex"

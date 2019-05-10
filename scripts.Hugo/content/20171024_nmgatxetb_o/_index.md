@@ -8,6 +8,6 @@ weight = 20
 
 {{< mymp4 mp4="20171024_nmgatxetb_o.mp4" >}}
 
-     Open Carry 和 CHL 不同吗？补充上集没有提到的问题！ 
-     对枪械管制问题的补充（粤语） 
      https://www.youtube.com/watch?v=NmGatXEtb o 
+     对枪械管制问题的补充（粤语） 
+     Open Carry 和 CHL 不同吗？补充上集没有提到的问题！ 
